@@ -1,6 +1,7 @@
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">👋 Hola, soy Samuel Cortés Sánchez</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src=""C:\Users\samue\Desktop\banner_gitHub.png"">
+
 
