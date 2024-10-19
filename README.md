@@ -34,8 +34,7 @@
 <hr/>
 
 <h2>🏆 Proyectos Destacados</h2>
-<p><strong>[JYRS-Developers-Cine](https://github.com/Samuceese/JYRS-Developers-Cine)</strong></p><br>
-Proyecto final de primero de DAW que consiste en una gestión de un cine y clientes.</p>
+<p><strong>[JYRS-Developers-Cine](https://github.com/Samuceese/JYRS-Developers-Cine)</strong></p>-------> Proyecto final de primero de DAW que consiste en una gestión de un cine y clientes.</p>
 
 <hr/>
 
