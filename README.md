@@ -39,7 +39,7 @@
 
 <h2>📫 Conéctate conmigo</h2>
 <ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com">...</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com">[...](https://www.linkedin.com/in/samuel-cort%C3%A9s-s%C3%A1nchez-59a4b5336/)</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/samuceese">samuceese</a></li>
   <li><strong>Correo:</strong> samuelcortessanchez@gmail.com</li>
 </ul>
